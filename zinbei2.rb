@@ -9,6 +9,7 @@ class Zinbei2 < Formula
   version "2.0.1"
 
   def install
-   bin.install "zinbei2-2.0.1"
+   system "tar xvzf zinbei2-2.0.1.tar.gz"
+   bin.install "zinbei2-2.0.1/bin"
   end
 end
