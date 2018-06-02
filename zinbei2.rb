@@ -9,6 +9,6 @@ class Zinbei2 < Formula
   version "2.0.1"
 
   def install
-    install Dir['*']
+   zinbei2.install Dir['*']
   end
 end
