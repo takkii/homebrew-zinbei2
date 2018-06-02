@@ -1,7 +1,7 @@
 require "formula"
 
 class Zinbei2 < Formula
-  homepage "http://nyasocom.site/takkii/zinbei2"
+  homepage "http://nyasocom.site"
   url "http://nyasocom.site/takkii/zinbei2/-/archive/master/zinbei2-master.tar.gz"
   head "http://nyasocom.site/takkii/zinbei2.git"
   version "2.0.1"
