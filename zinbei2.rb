@@ -10,5 +10,6 @@ class Zinbei2 < Formula
 
   def install
    bin.install Dir['bin/*']
+   bin.install Dir['image/tweet_icon.gif']
   end
 end
