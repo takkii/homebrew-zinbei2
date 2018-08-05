@@ -4,7 +4,7 @@ class Zinbei2 < Formula
   
   homepage "https://github.com/takkii/zinbei2"
   url "https://github.com/takkii/zinbei2/archive/2.0.1_13.tar.gz"
-  sha256 "2c34a66f8185f8e39e5a801b1bdeb34f4ba7b461afa5d3223aada529cc5ec779"
+  sha256 "c72eeaafe28e7dd9b1e317415aab5e0c3c38abe8f19c8616619809c6de530be0"
   head "https://github.com/takkii/zinbei2.git"
   version "2.0.1"
 
