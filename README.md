@@ -1,5 +1,5 @@
 # homebrew-zinbei2
-homebrew-zinbeiの設定ファイル。
+homebrew-zinbei2の設定ファイル。
 
 homebrewのtap先。
 
