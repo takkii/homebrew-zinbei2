@@ -9,6 +9,6 @@ class Zinbei2 < Formula
   version "2.1.4"
 
   def install
-   bin.install Dir['bin/*']
+    bin.install Dir['bin/*']
   end
 end
